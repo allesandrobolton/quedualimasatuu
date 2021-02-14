@@ -1,0 +1,4 @@
+baseURL = "https://music-notesjiu6.vercel.app"
+languageCode = "en-us"
+title = "Music Notes Fee"
+theme = "hugo-theme-minos"
